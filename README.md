@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Tony!
 I’m a **Developer** from **New York**. I like making web applications that keep the user in mind first and make navigation easy. I'm a Knicks and Giants fan (😢) and I like to play basketball. 
 - 🔭 **Next Goal:** Build full-stack applications to showcase my skills.
-  - Capstone Project using Flask.
-  - A project using Node, Express, React
-  - A project written in Java  
+  - React Full-Stack Project
+    - Tech Stack: React, Context API, WebSockets, React Hook Form, Tailwind CSS, Headless UI, Next.js, PostgreSQL, Prisma (ORM), Recharts
 - 💻 **Interests:** Frontend development, backend systems
 
 ## 🛠️ Skills
@@ -30,6 +29,6 @@ I’m a **Developer** from **New York**. I like making web applications that kee
 #### Next on my learning roadmap:  
 [![Node.js and Express](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-Last update: 1/9/25
+Last update: 2/10/25
 
 
