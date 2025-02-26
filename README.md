@@ -10,7 +10,7 @@ I’m a **Developer** from **New York**. I like making web applications that kee
 [![My Skills](https://skillicons.dev/icons?i=js,py,java)](https://skillicons.dev)
 
 #### Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,jquery)](https://skillicons.dev)
 
 #### Backend Development
 [![My Skills](https://skillicons.dev/icons?i=flask,supabase)](https://skillicons.dev)
@@ -22,13 +22,13 @@ I’m a **Developer** from **New York**. I like making web applications that kee
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
-#### I’m currently learning **React** to build dynamic and interactive web applications.  
+#### I’m currently focusing on really getting **React** down to build dynamic and interactive web applications.  
 [![React](https://skillicons.dev/icons?i=react)](https://skillsicon.dev)
 
 
 #### Next on my learning roadmap:  
 [![Node.js and Express](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-Last update: 2/10/25
+Last update: 2/26/25
 
 
