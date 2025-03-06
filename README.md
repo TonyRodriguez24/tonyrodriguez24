@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Tony!
-I’m a **Developer** from **New York**. I like making web applications that keep the user in mind first and make navigation easy. I'm a Knicks and Giants fan (😢) and I like to play basketball. 
+# Hey, I’m Tony
+I’m a **Developer** from **New York**. I like making web applications that keep the user in mind first and make navigation easy. I'm a Knicks and Giants fan (unfortunately) and I like to play basketball. 
 - 🔭 **Next Goal:** Build full-stack applications to showcase my skills.
   - React Full-Stack Project
     - Tech Stack: React, Context API, WebSockets, React Hook Form, Tailwind CSS, Headless UI, Next.js, PostgreSQL, Prisma (ORM), Recharts
